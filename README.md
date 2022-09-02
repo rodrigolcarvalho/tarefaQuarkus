@@ -1,4 +1,4 @@
-# proj-compras Project
+# tarefa Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
