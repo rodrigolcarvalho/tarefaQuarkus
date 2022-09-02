@@ -1,0 +1,6 @@
+2022-09-02 14:16:10,895 bbtmf-15t00l3 tarefa-dev.jar[63600] INFO  [io.quarkus] (Quarkus Main Thread) tarefa 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.6.Final) started in 3.390s. Listening on: http://localhost:8080
+2022-09-02 14:16:10,899 bbtmf-15t00l3 tarefa-dev.jar[63600] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-09-02 14:16:10,901 bbtmf-15t00l3 tarefa-dev.jar[63600] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [agroal, cdi, hibernate-orm, hibernate-orm-panache, hibernate-validator, jdbc-h2, narayana-jta, rest-client, rest-client-jackson, resteasy, servlet, smallrye-context-propagation, vertx]
+2022-09-02 14:16:20,661 bbtmf-15t00l3 tarefa-dev.jar[63600] INFO  [br.com.bb.tar.con.HelloResource] (executor-thread-0) Mensagem para: Rodrigo, às 14:16
+2022-09-02 14:16:40,778 bbtmf-15t00l3 tarefa-dev.jar[63600] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-09-02 14:16:40,778 bbtmf-15t00l3 tarefa-dev.jar[63600] INFO  [io.quarkus] (Shutdown thread) tarefa stopped in 0.041s
